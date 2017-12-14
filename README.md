@@ -12,14 +12,11 @@
 
 ## Installation 🖥
 ### Via DMG
-Download [this](https://github.com/Charliekenney23/notify/releases/download/v1.0.0/Notify.dmg) `.dmg`, open it and drag `Notify.app` to the `/Applications` folder.
+Download [`Notify.dmg`](https://github.com/Charliekenney23/notify/releases/download/v1.0.0/Notify.dmg); open it and drag `Notify.app` to the `/Applications` directory.
 
-#### Via terminal
-```bash
-$ wget https://github.com/Charliekenney23/notify/releases/download/v1.0.0/Notify.app
-$ sudo mv Notify.app /Applications/Notify.app
-$ open -a Notify
-```
+<p align="center">
+  <img src="Assets/Install.gif" alt="install">
+</p>
 
 <h2>License 📜</h2>
 <p>
